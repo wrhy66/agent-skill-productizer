@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Skill Productizer"
+  short_description: "Package repeatable workflows as GitHub-ready agent skills."
+  default_prompt: "Use $agent-skill-productizer to turn this repeatable workflow into a publishable agent skill."
