@@ -1,5 +1,5 @@
 name: Custom Skill Request
-description: Request a private agent skill for a workflow.
+description: Request a paid private agent skill for one workflow.
 title: "[Custom Skill]: "
 labels: ["custom-skill", "paid-request"]
 body:
@@ -7,6 +7,7 @@ body:
     attributes:
       value: |
         Use this form to request a private agent skill for one narrow repeatable workflow.
+        Starter price: 499 RMB after scope confirmation.
         Issues are public. Do not paste secrets, credentials, private customer data, or confidential internal documents.
   - type: input
     id: workflow-name

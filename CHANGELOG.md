@@ -12,6 +12,7 @@ Next planned improvements:
 - collect feedback from first users
 - refine launch posts based on which channels respond
 - add one public skill idea from real user feedback
+- test the 499 RMB private skill offer with real outreach
 
 ## v0.1.1 - 2026-06-12
 

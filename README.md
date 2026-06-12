@@ -8,6 +8,23 @@ Turn repeatable prompts, SOPs, and niche workflows into installable AI agent ski
 
 Use it when you have a workflow that already works in chat, but is still trapped in scattered prompts, private notes, or a manual checklist.
 
+## Custom Private Skill - 499 RMB
+
+Have one repeated workflow you want packaged for your own business, repo, or team?
+
+I can build a private installable agent skill for one narrow workflow:
+
+- custom `SKILL.md`
+- references, templates, or scripts when useful
+- one revision round
+- handoff instructions
+
+Start here: [Custom Skill Request](https://github.com/wrhy66/agent-skill-productizer/issues/new?template=custom-skill-request.yml)
+
+Payment is requested after the workflow scope is confirmed. Do not paste secrets or private customer data into public issues.
+
+中文说明：[499 RMB 私有 Skill 定制](CUSTOM_SKILL_SERVICE.zh-CN.md)
+
 ## Fast Path
 
 1. Copy `agent-skill-productizer/` into your Codex skills directory.
@@ -100,6 +117,8 @@ Use $agent-skill-productizer to productize this workflow...
 - [Skill idea catalog](examples/skill-idea-catalog.md)
 - [Launch and promotion copy](PROMOTION.md)
 - [Custom skill service details](CUSTOM_SKILL_SERVICE.md)
+- [499 RMB 中文定制说明](CUSTOM_SKILL_SERVICE.zh-CN.md)
+- [Today sales sprint](TODAY_SALES_SPRINT.md)
 - [Roadmap](ROADMAP.md)
 - [Changelog](CHANGELOG.md)
 

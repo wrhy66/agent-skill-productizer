@@ -4,6 +4,8 @@ I can turn one narrow repeatable workflow into a private agent skill for your ow
 
 Starter price: 499 RMB for one narrow workflow.
 
+Payment is requested after the workflow scope is confirmed.
+
 ## Best Fit
 
 This works best when you already have:
@@ -55,3 +57,5 @@ Open a [Custom Skill Request](https://github.com/wrhy66/agent-skill-productizer/
 - one sanitized example if available
 
 I will reply with whether the workflow fits the starter scope, what I need next, and the expected delivery shape.
+
+Chinese version: [499 RMB 私有 Skill 定制](CUSTOM_SKILL_SERVICE.zh-CN.md)

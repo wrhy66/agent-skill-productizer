@@ -102,6 +102,40 @@ https://github.com/wrhy66/agent-skill-productizer
 如果你有一个明确的重复工作流，也可以提 499 RMB 私有 skill 定制需求。
 ```
 
+## Zh-CN Direct Sales Post
+
+```text
+今天开放几个 499 RMB 私有 agent skill 定制名额。
+
+如果你有一个反复使用的 prompt、SOP 或业务流程，我可以把它整理成一个可安装的私有 Codex skill：
+
+- 定制 SKILL.md
+- 必要的模板 / 参考文档 / 脚本
+- 一轮修改
+- 使用说明
+
+适合周报、客服反馈整理、代码审查、发布检查、客户交付文档等明确工作流。
+
+先看开源项目：
+https://github.com/wrhy66/agent-skill-productizer
+
+提交需求：
+https://github.com/wrhy66/agent-skill-productizer/issues/new?template=custom-skill-request.yml
+```
+
+## Zh-CN Interested Reply
+
+```text
+可以。先确认一下是不是 499 RMB starter 范围：
+
+1. 这个工作流叫什么？
+2. 输入是什么？比如文本、CSV、代码 diff、会议记录、工单等。
+3. 输出希望长什么样？
+4. 有没有一小段脱敏示例？
+
+如果是一个明确的窄工作流，我确认范围后再发付款方式。
+```
+
 ## First Week Checklist
 
 - Pin the repository on GitHub.
@@ -110,4 +144,3 @@ https://github.com/wrhy66/agent-skill-productizer
 - Add one new example from real feedback.
 - Reply to every issue with a concrete next step.
 - Track which examples create the most custom-skill requests.
-
