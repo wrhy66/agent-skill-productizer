@@ -31,3 +31,20 @@ Paid customization:
 Private version adapted to the company's support tags, product areas, severity rubric, and Jira/Linear workflow.
 ```
 
+Suggested skill folder:
+
+```text
+feedback-triage-brief/
+  SKILL.md
+  references/product-areas.md
+  references/severity-rubric.md
+  assets/templates/weekly-triage-brief.md
+```
+
+Launch angle:
+
+```text
+I made a small agent skill for PMs who turn support feedback into weekly product triage briefs.
+
+It takes pasted feedback, groups it by theme, separates bugs from feature requests, and produces a Markdown brief with recommended actions.
+```

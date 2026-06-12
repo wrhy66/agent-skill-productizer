@@ -7,6 +7,7 @@ body:
     attributes:
       value: |
         Use this form to request a private agent skill for one narrow repeatable workflow.
+        Issues are public. Do not paste secrets, credentials, private customer data, or confidential internal documents.
   - type: input
     id: workflow-name
     attributes:
@@ -37,6 +38,12 @@ body:
       label: Constraints
       description: Any rules, examples, file types, privacy constraints, or tools involved?
       placeholder: "No private data in examples; must support Markdown and CSV; use our internal rubric..."
+  - type: textarea
+    id: sanitized-example
+    attributes:
+      label: Sanitized example
+      description: Paste a small sanitized input/output example if you have one.
+      placeholder: "Remove customer names, emails, secrets, and private business data."
   - type: dropdown
     id: budget
     attributes:
@@ -48,6 +55,26 @@ body:
         - "Not sure yet"
     validations:
       required: true
+  - type: dropdown
+    id: public-example-permission
+    attributes:
+      label: May a sanitized version become a public example?
+      description: This is optional and never includes private data.
+      options:
+        - "No"
+        - "Yes, after anonymization"
+        - "Ask me later"
+    validations:
+      required: true
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope confirmation
+      options:
+        - label: I understand the 499 RMB starter scope is for one narrow workflow, not a broad assistant.
+          required: true
+        - label: I understand this project does not guarantee sales, traffic, rankings, or revenue outcomes.
+          required: true
   - type: markdown
     attributes:
       value: |

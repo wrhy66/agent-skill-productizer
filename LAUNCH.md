@@ -16,6 +16,16 @@ ai-agents, codex, skills, agent-skills, workflow-automation, prompt-engineering,
 
 4. Pin the repository if the GitHub account has few existing pinned projects.
 5. Post the launch copy below in 1-2 places where this is welcome.
+6. Link the [Custom Skill Service](CUSTOM_SKILL_SERVICE.md) page in any paid-offer post.
+7. Use [PROMOTION.md](PROMOTION.md) for channel-specific launch copy.
+
+## First-Week Conversion Checklist
+
+1. Ask two real users to try the install flow.
+2. Add one new example from actual feedback, with private data removed.
+3. Reply to every issue with a concrete next step.
+4. Track which post or example creates each custom-skill request.
+5. Keep the 499 RMB offer narrow: one workflow, clear input, clear output, one revision.
 
 ## X / Twitter Post
 
@@ -73,4 +83,3 @@ Starting at 499 RMB for a narrow workflow.
 - which example users ask for next
 
 Do not claim earnings unless they are real, attributable, and documented.
-
