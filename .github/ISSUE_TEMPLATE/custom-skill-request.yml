@@ -1,0 +1,54 @@
+name: Custom Skill Request
+description: Request a private agent skill for a workflow.
+title: "[Custom Skill]: "
+labels: ["custom-skill", "paid-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request a private agent skill for one narrow repeatable workflow.
+  - type: input
+    id: workflow-name
+    attributes:
+      label: Workflow name
+      description: What should this private skill help with?
+      placeholder: "Example: Turn support tickets into a weekly product triage brief"
+    validations:
+      required: true
+  - type: textarea
+    id: current-process
+    attributes:
+      label: Current process
+      description: Describe how you do this workflow today.
+      placeholder: "Inputs, steps, tools, outputs, pain points..."
+    validations:
+      required: true
+  - type: textarea
+    id: desired-output
+    attributes:
+      label: Desired output
+      description: What should the agent produce when the skill is used?
+      placeholder: "A report, code review checklist, migration plan, launch pack..."
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints
+      description: Any rules, examples, file types, privacy constraints, or tools involved?
+      placeholder: "No private data in examples; must support Markdown and CSV; use our internal rubric..."
+  - type: dropdown
+    id: budget
+    attributes:
+      label: Budget range
+      options:
+        - "499 RMB starter workflow"
+        - "1000-3000 RMB custom workflow"
+        - "3000+ RMB team/private implementation"
+        - "Not sure yet"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Note: This project does not guarantee sales, traffic, rankings, or revenue outcomes.

@@ -1,0 +1,24 @@
+name: Skill Idea
+description: Suggest a free/public skill idea.
+title: "[Skill Idea]: "
+labels: ["idea"]
+body:
+  - type: input
+    id: user
+    attributes:
+      label: Who is this for?
+      placeholder: "Example: indie SaaS founders"
+    validations:
+      required: true
+  - type: textarea
+    id: job
+    attributes:
+      label: What repeated job should the skill help with?
+      placeholder: "Describe the input, desired output, and why it repeats."
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example inputs or outputs
+      placeholder: "Paste a sanitized example if you have one."

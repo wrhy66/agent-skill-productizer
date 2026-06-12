@@ -66,7 +66,23 @@ The free skill is useful as-is. Paid work can include private workflow customiza
 
 No revenue, ranking, stars, traffic, or sales outcome is guaranteed.
 
+## Custom Private Skill
+
+Want this adapted to your own workflow?
+
+I can turn one repeatable business or coding workflow into a private agent skill:
+
+- workflow interview
+- installable skill folder
+- custom `SKILL.md`
+- references, templates, or scripts as needed
+- one revision round
+- handoff instructions
+
+Starter price: 499 RMB for one narrow workflow.
+
+Open a [Custom Skill Request](../../issues/new?template=custom-skill-request.yml) and describe the workflow you want to productize.
+
 ## License
 
 MIT
-
