@@ -6,12 +6,28 @@ This project uses small, practical releases. A release should make the skill mor
 
 ## Unreleased
 
-Planned next improvements:
+Next planned improvements:
 
 - add more real-world example workflows
-- improve private skill request conversion copy
 - collect feedback from first users
 - refine launch posts based on which channels respond
+- add one public skill idea from real user feedback
+
+## v0.1.1 - 2026-06-12
+
+Conversion and maintenance update.
+
+Includes:
+
+- stronger README fast path and custom skill call to action
+- custom private skill service page
+- promotion kit with English and Chinese launch copy
+- private skill brief example
+- skill idea catalog
+- improved custom skill request issue template
+- weekly scheduled GitHub Actions audit
+- roadmap, changelog, and update cadence docs
+- skill update planning issue template
 
 ## v0.1.0
 
@@ -26,4 +42,3 @@ Includes:
 - launch templates
 - GitHub README
 - custom private skill request path
-
