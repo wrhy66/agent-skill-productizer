@@ -100,6 +100,8 @@ Use $agent-skill-productizer to productize this workflow...
 - [Skill idea catalog](examples/skill-idea-catalog.md)
 - [Launch and promotion copy](PROMOTION.md)
 - [Custom skill service details](CUSTOM_SKILL_SERVICE.md)
+- [Roadmap](ROADMAP.md)
+- [Changelog](CHANGELOG.md)
 
 ## Repository Structure
 
@@ -128,6 +130,16 @@ python agent-skill-productizer/scripts/audit_skill.py .
 The free skill is useful as-is. Paid work can include private workflow customization, setup help, niche example packs, integration scripts, or team training.
 
 No revenue, ranking, stars, traffic, or sales outcome is guaranteed.
+
+## Update Cadence
+
+This project should stay visibly maintained without noisy fake momentum:
+
+- weekly: examples, issue replies, copy improvements, and launch learnings
+- monthly: small releases when there is a visible improvement
+- quarterly: review pricing, scope, examples, and conversion path
+
+See [Roadmap](ROADMAP.md) and [Changelog](CHANGELOG.md).
 
 ## Custom Private Skill
 

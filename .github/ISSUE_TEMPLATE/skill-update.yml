@@ -1,0 +1,43 @@
+name: Skill Update Plan
+description: Plan a small maintenance update or release.
+title: "[Update]: "
+labels: ["enhancement", "documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for small, useful updates that make the skill easier to trust, use, or request as a private customization.
+  - type: dropdown
+    id: update-type
+    attributes:
+      label: Update type
+      options:
+        - "Example workflow"
+        - "README or conversion copy"
+        - "Audit script"
+        - "Template or launch asset"
+        - "Private skill offer"
+        - "Release checklist"
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+      placeholder: "Describe the smallest useful improvement."
+    validations:
+      required: true
+  - type: textarea
+    id: conversion-impact
+    attributes:
+      label: Why does it help?
+      placeholder: "Explain how this helps users try, trust, share, or request a custom skill."
+  - type: checkboxes
+    id: release-ready
+    attributes:
+      label: Release readiness
+      options:
+        - label: The update does not include fake claims, fake testimonials, or guaranteed income promises.
+          required: true
+        - label: The update can be validated with the audit script or a clear manual check.
+          required: true

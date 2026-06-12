@@ -27,6 +27,22 @@ ai-agents, codex, skills, agent-skills, workflow-automation, prompt-engineering,
 4. Track which post or example creates each custom-skill request.
 5. Keep the 499 RMB offer narrow: one workflow, clear input, clear output, one revision.
 
+## Maintenance Rhythm
+
+Use updates as trust signals, not as noise:
+
+- weekly: add or improve one useful artifact
+- monthly: publish a small release if there is a visible improvement
+- quarterly: review the private-skill offer and pricing
+
+Good update examples:
+
+- new buyer-specific example workflow
+- clearer request form
+- better audit script output
+- launch copy rewritten from real feedback
+- template that saves a user setup time
+
 ## X / Twitter Post
 
 ```text
